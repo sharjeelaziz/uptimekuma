@@ -1,0 +1,12 @@
+apiVersion: v2
+name: uptimekuma
+description: Uptime Kuma stateful deployment
+icon: https://raw.githubusercontent.com/louislam/uptime-kuma/master/public/icon.png 
+maintainers:
+  - name: sharjeelaziz
+    email: kuma@voidfork.com
+type: application
+sources:
+  - https://github.com/sharjeelaziz/uptimekuma
+version: 1.0.0
+appVersion: "2.18.0"
